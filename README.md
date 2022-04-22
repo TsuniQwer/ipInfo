@@ -8,7 +8,8 @@ Shows ip's location (longitude and latitude), region, city and country
 3) put ip
 
 ``
-Type 'exit' if you want to quit the program
+ Type 'exit' if you want to quit the program
 ``
+
 
 ![alt text](https://cdn.hosterdaddy.com/img-assets/404/ipaddress.png "ip")
