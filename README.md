@@ -1,4 +1,5 @@
 # ipInfo
+## Check what's your ip and location - country
 ```
 Shows ip's location (longitude and latitude), region, city and country
 ```
