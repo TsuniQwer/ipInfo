@@ -3,7 +3,7 @@
 ```
 Shows ip's location (longitude and latitude), region, city and country
 ```
-### SETUP PYTHON3 REQUIREMENTS
+### SETUP 
 ```
 1) https://github.com/TsuniQwer/ipInfo.git
 2) cd ipInfo
