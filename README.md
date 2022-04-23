@@ -5,8 +5,10 @@ Shows ip's location (longitude and latitude), region, city and country
 ```
 ### SETUP PYTHON3 REQUIREMENTS
 ```
-1) python3 -m pip install -r requirements.txt
-2) python3 ipInfo.py
+1) https://github.com/TsuniQwer/ipInfo.git
+2) cd ipInfo
+2) python3 -m pip install -r requirements.txt
+3) python3 ipInfo.py
 ```
 
 ``
