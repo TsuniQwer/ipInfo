@@ -3,10 +3,11 @@
 ```
 Shows ip's location (longitude and latitude), region, city and country
 ```
-1) install package ip2geotools (pip install ip2geotools)
+SETUP PYTHON3 REQUIREMENTS
+1) python3 -m pip install -r requirements.txt
 2) run the python file 
 3) put ip
-
+SETUP PYTHON3 REQUIREMENTS
 ``
  Type 'exit' if you want to quit the program
 ``
